@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ExamenInterfaces</string>
+    <string name="producto">Producto</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="_2">$2</string>
+    <string name="_18">$18</string>
+    <string name="_13">$13</string>
+    <string name="_43">$43</string>
+    <string name="_10">$10</string>
+    <string name="_5">-$5</string>
+    <string name="cup_n">Cupón</string>
+    <string name="costo_env_o">Costo envío</string>
+    <string name="subtotal1">Subtotal</string>
+    <string name="detergente_limpiadin_x1">Detergente Limpiadin x1</string>
+    <string name="pastas_duria_x2">Pastas Duria x2</string>
+    <string name="jabo_n_de_manos_x1">Jaboón de manos x1</string>
+    <string name="_101">$10</string>
+    <string name="total">Total</string>
+    <string name="_48">$48</string>
+    <string name="jab_n_de_manos_x1">Jabón de manos x1</string>
+</resources>
